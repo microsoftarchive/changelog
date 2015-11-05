@@ -76,8 +76,3 @@
   - If you have an emoji in your name then it might not have been showing up correctly in the Detail View... until now.
   - When there's a sync error you should see a small (yet dramatic) red lightning bolt. We fixed a bug that was making it less dramatic than we wanted.
   - We fixed subtasks not always rendering links in text.
-
-
-
-
-
