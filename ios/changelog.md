@@ -1,5 +1,5 @@
 # What's New in Wunderlist
-Changelog for the iOS application.
+Changelog for the iOS app.
 
 ## 3.3.2
 
