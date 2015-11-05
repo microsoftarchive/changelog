@@ -3,11 +3,11 @@ Changelog for the Web, Chrome, and Windows 7 applications.
 
 ## 3.12.10
 
-  - Update localizations
-  - Fix settings dialog looking like glitch art on IE11
-  - Fix tell modal and social buttons
-  - Fix flex layout for Firefox in searchbar
-  - Reset add task view dates if no date found any longer via NLP
+  - We've updated our translations.
+  - We were getting a little postmodern on our settings dialog on IE11. We've fixed the glitch art now. 
+  - Love Wunderlist so much that you want to tell all your friends about it on Facebook, Twitter or Google+? Why, thank you. We've made the sharing buttons look a little prettier just for you.
+  - We fixed the flex layout for Firefox in the searchbar.
+  - We hope you love Smart Due Dates as much as we do. You might have noticed though, that occasionally we were seeing dates in your to-dos when there weren't any. If you keep typing after we've recognized a date then we'll reset the date—so 'sunscreen' will no longer become 'screen' with a due date of Sunday.  
 
 ## 3.12.9
 
