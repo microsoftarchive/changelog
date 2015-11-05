@@ -1,3 +1,6 @@
+# What's New in Wunderlist
+Changelog for the Web, Chrome, and Windows 7 applications.
+
 ## 3.12.9
 
   - We've stopped patching task positions unnecessarily when you tick off a to-do. What does this mean for you? Just that your Wunderlist will be running more smoothly when you tick off recurring to-dos.
