@@ -1,6 +1,21 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.13.0
+
+  - Change the layout of the settings navigation from a topbar to a sidebar
+  - Add links to the new public change log in the user popover and the settings/about tab
+  - Make emojis render for printing
+  - Swap Search icon with an X cancel icon while searching
+  - Show delete icon on detail view sections only when there is content
+  - Fix the "not sent" label for long user names in list sharing dialog
+  - Fix long user names pushing everything else away in the user toolbar on Firefox
+  - Fix type error when pasting tasks
+  - Fix missing file upload progress and other file item UI regressions
+  - Fix a bunch of avatar regressions
+  - Fix the subtasks collection view rendering whatever it wants (plugs a memory leak) 
+  - Fix list options labels in Safari
+
 ## 3.12.10
 
   - We've updated our translations.
