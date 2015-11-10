@@ -1,6 +1,21 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.13.0
+
+  - Head to your Account Settings. Notice anything different? That's right, the navigation has changed from the topbar to the sidebar. 
+  - Want quick and easy access to the changelog to see what exciting new features and fixes are in store? We've added a link in your Settings that takes you straight to this page. 
+  - Want to see your emojis in full technicolor when you print out your to-dos? Ok! When you print your lists you'll now see all your emojis too.
+  - We've made it easy for you to get back to business once you've finished searching for a to-do—the looking glass will transform itself into an X and a quick click on that will take you back to your lists.
+  - We're giving our delete icons a little rest and only rolling them out when there's a job to-do—you'll now only see the delete icons when there's content in the Detail View. 
+  - If you have friends with very long names then you'll have seen that something strange went on with the 'Not Sent' label when you wanted to share a list with them. We fixed that one.
+  - Talking of long names, we've also fixed a bug where long user names were causing havoc with the toolbar on Firefox.
+  - We fixed a little issue when pasting a to-do so it should now work seamlessly every time.
+  - We fixed a couple of UI regression including bringing back the upload progress bar for Files.
+  - We fixed a few avatar regressions to make sure your Wunderlist picture was looking as good as it should. 
+  - Were new subtasks occasionally showing up in wrong to-dos when you synced? Yeah, that was a pesky bug. We've squished it now.
+  - Last but not least, we fixed the Sharing List labels in Safari.
+
 ## 3.12.10
 
   - We've updated our translations.
