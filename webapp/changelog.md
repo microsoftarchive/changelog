@@ -1,6 +1,19 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.13.1
+
+  - Sidebar wil now open on search shortcut in minified mode
+  - Fix for automatic reminders breaking in the detail view
+  - Fix for consistent browser window titles for lists and smart lists
+  - Fix double file expand chevron
+  - Implement file context menu for Windows 7
+  - Fix copying text in comments for Windows 7
+  - Fix visual bug in Windows 7 with long user name
+  - Fix Windows 7 update spinner
+  - Animate toggling starred task from Windows 7 context menu
+  - Prevent middle click in Windows 7
+
 ## 3.13.0
 
   - Head to your Account Settings. Notice anything different? That's right, the navigation has changed from the topbar to the sidebar. 
