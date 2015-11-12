@@ -15,5 +15,5 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.6.7.0 (Windows 10)
 
-- You can now sign-up of login with your Microsoft account, making it super simple for you to start ticking off those to-dos.
+- You can now sign-up or login with your Microsoft account, making it super simple for you to start ticking off those to-dos.
 - Minor bug fixes.
