@@ -1,6 +1,12 @@
 # What's New in Wunderlist
 Changelog for the Android app.
 
+## 3.4.2
+
+  - Fixed: Scrolling to switch months in CalendarView (Android 4.1)
+  - Fixed: Start-up crashes in some devices running Android 4.2
+  - Fixed: Background load in Android Wear
+
 ## 3.4.1
 
   - Add star icon in Quick Add.
