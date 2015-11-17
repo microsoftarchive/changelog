@@ -1,6 +1,19 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.13.1
+
+  - If you like keeping your Wunderlist in minified view, then you'll be happy to know that we fixed a small issue that was causing problems when using the keyboard shortcut to search. The Sidebar will now open and let you search through your lists.
+  - We've fixed the issue that was making Automatic Reminders break in the Detail View.
+  - Your Smart List names should now show up in the title bar of the browser.
+  - Were your Folder arrows looking a little funny when you expanded them to see your lists? We've fixed the chevrons doubling up.
+  - Right click on a Folder and you'll now be able to open and delete it straight from the context menu in Windows 7.
+  - You can now copy text in comments for Windows 7.
+  - If you have a long name you may have encountered an unsightly visual bug in Windows 7. It will now work for you.
+  - The Windows 7 update spinner was a little off-centre, we've realigned it.
+  - The star lost a bit of its shine when you starred a to-do from the Windows 7 context menu. It will now fully animate and move to the top of your list.  
+  - We've now disabled middle-click on Windows 7 as it was causing small implosions in your Wunderlist.
+
 ## 3.13.0
 
   - Head to your Account Settings. Notice anything different? That's right, the navigation has changed from the topbar to the sidebar. 
