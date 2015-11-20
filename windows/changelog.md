@@ -2,25 +2,20 @@
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.6.11.0 (Windows 10)
-- in Tablet Mode on Surface, selecting the input field does not open the virtual keyboard
-- "Pending" label next to invited person should be orange, not blue
-- Dates (due date, reminder, etc.) don't change over midnight while app is running 
-- Settings > Smart Lists, size of drop down menu changes when opening the Week&Today setting
-- text is truncated on file view
-- crash when multiselecting tasks in Search results
-- Starring a task does not always send it to the top of the list, particularly starring in the detail view
-- App crashes when task is marked as completed
-- If I attempt to attach a file that is open by another program, Wunderlist will crash
-- The input field shouldn't be white when in focus
-- Sometimes text in input field is not visible (user report)
-- All comment pictograms (even tasks only I commented) are filled in blue after install/signin
-- Completed tasks can be marked as due today via the context menu
-- If you have no other list than the Inbox, "move item to.." option in right click menu is empty
-- Remove Autocorrect from change email address option
-- Unchecking a task doesn't change the number of completed items on the completed items section
-- Starring multiple items simultaneously does not move them to the top of the list
-- Clicking the same sort option a second time does not reverse the order (e.g. alphabetically)
-- Remove feature check for "experiment.automatic-reminders” from production app
+- We've fixed the keyboard not popping up when you're in Tablet Mode on Surface and want to add a to-do.
+- We've changed the "Pending" label next to an invite in a shared list to orange instead of blue. It's the little things. 
+- If you left Wunderlist running over midnight you may have felt like you were in a time-warp with your Due Dates and Reminders not updating. We've fixed that and can confirm that you will now be firmly in the present.
+- The size of our drop down menus changed when opening the Smart List settings for Week & Today. We've made everything more uniform now.
+- We fixed a little bug that was cutting off the text on attached files.
+- Getting crashes when ticking off a to-do or when selecting multiple to-dos while searching? This update shall crash your app no more. 
+- Talking of crashes, we've also fixed the one where Wunderlist crashed if you were attaching a file that was already open.
+- Sometimes we weren't giving your priority tasks enough respect. If your starred to-dos weren't moving to the top of the list, we're sorry, they will now. 
+- We like you to be able to see your to-dos as you add them so we've fixed the issue that made your new to-dos invisible. 
+- We took out the option to change Completed to-dos to be Due Today in the context menu, because it just didn't make sense. 
+- Speaking of which, autocorrecting your email addresses really didn't make sense either so you'll be happy to know we've removed that.
+- If you like to watch the number of completed items go up and down as you tick and untick your to-dos you will have been aghast at the bug that didn't change the number count when you unticked a to-do. Fear not, we've fixed it now. 
+- When you sort your to-dos, e.g. alphabetically, you can now click Sort a second time in order to reverse the order. 
+- Various other small bug fixes.
 
 ## 3.6.9.0 (Windows 10)
 
