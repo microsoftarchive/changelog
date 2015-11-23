@@ -1,6 +1,11 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.14.0
+  - We used to annoy Windows 7 users on every small patch release with an intrusive dialog.  We will only bug you about restarting Wunderlist when there are is an important change.
+  - The scrollbars in the task browser were sometimes impossible to see depending on what background you chose.  The scrollbars now have per-background colors on Chrome and Safari.
+  - We fixed some bugs in the duedate and reminder pickers.
+
 ## 3.13.1
 
   - If you like keeping your Wunderlist in minified view, then you'll be happy to know that we fixed a small issue that was causing problems when using the keyboard shortcut to search. The Sidebar will now open and let you search through your lists.
