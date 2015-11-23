@@ -2,9 +2,9 @@
 Changelog for the Web, Chrome, and Windows 7 applications.
 
 ## 3.14.0
-  - We used to annoy Windows 7 users on every small patch release with an intrusive dialog.  We will only bug you about restarting Wunderlist when there are is an important change.
-  - The scrollbars in the task browser were sometimes impossible to see depending on what background you chose.  The scrollbars now have per-background colors on Chrome and Safari.
-  - We fixed some bugs in the duedate and reminder pickers.
+  - As a Windows 7 user you might have thought that, like Pi, we were being a little irrational with our never-ending updates and intrusive dialog screen. We will now only bug you about restarting Wunderlist when there is an important change.
+  - If you have an infinite number of to-dos then you'll have noticed that the scrollbars were sometimes impossible to see depending on your chosen background. The color of the scrollbars now change to contrast with your background in Chrome and Safari.
+  - We fixed some random bugs in the Due Date and Reminder pickers.
 
 ## 3.13.1
 
