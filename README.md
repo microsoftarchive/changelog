@@ -1,5 +1,4 @@
-# changelog
-Wunderlist Release Notes
+## Wunderlist Release Notes
 
   - [Android](https://github.com/wunderlist/changelog/blob/master/android/changelog.md)
   - [iPhone/iPad](https://github.com/wunderlist/changelog/blob/master/ios/changelog.md)
