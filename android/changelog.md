@@ -3,13 +3,13 @@ Changelog for the Android app.
 
 ## 3.4.2
 
-  - Fixed: Scrolling to switch months in CalendarView (Android 4.1)
-  - Fixed: Start-up crashes in some devices running Android 4.2
-  - Fixed: Background load in Android Wear
+  - Fixed: We've fixed the issue which made switching months in the Calendar View a little troublesome for Android 4.1.)
+  - Fixed: Running Android 4.2 and finding that Wunderlist was crashing when you opened it? Sorry about that, we've fixed it now.
+  - Fixed: Not seeing your pretty background image on Android Wear? Fear not, we've fixed that bug.  
 
 ## 3.4.1
 
-  - Add star icon in Quick Add.
+  - New: We added the star icon into Quick Add.
   - Bug fixes and small improvements.
 
 ## 3.4.0
@@ -22,8 +22,8 @@ Changelog for the Android app.
 
 ## 3.3.10
 
-  - This release was pushed to fix the problem with the targetSDK 23.
-  - The source of the problems was that releasing the app with targetSDK 23 on a Android 6.0 device we had to manage permissions but we didn't, so changing to targetSDK 22 we solve this.
+  - Fixed: This release was pushed to fix the problem with the targetSDK 23.
+  - The source of the problems was that releasing the app with targetSDK 23 on a Android 6.0 device meant that we had to manage permissions but we didn't, so changing to targetSDK 22 solved this.
 
 ## 3.3.9
 
