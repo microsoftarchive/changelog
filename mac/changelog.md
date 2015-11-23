@@ -1,6 +1,14 @@
 # What's New in Wunderlist
 Changelog for the Mac app.
 
+## 3.4.0
+	- New: Add a to-do from either your list or from Quick Add (CTRL+ALT+W) and you will now get tag and assignee suggestions. Just type # to quickly choose from your most used tags, and @ to see and choose from all the people in your shared list. Assigned a to-do to someone by accident? Just hit the x at the top right of the Assigned to icon. 
+	- New: Are Smart Due Dates occasionally being a little too clever for your liking? If you don’t want a due date to be created then simply hit ESC while typing to cancel the Smart Due Date.
+
+	- Fixed: GMT was having a magical effect on some of your to-dos and as you got further away from that time zone it was messing with your automatic reminders. We’ve fixed that now.
+	- Fixed: If you were experiencing slower sync then you’ll be glad to know we’ve fixed that issue.
+	- Fixed: Various bugs and minor improvements.
+
 ## 3.3.2
 
   - Fixed: Getting the spinning beach ball of death when checking off a to-do in a large shared list? We’ve popped that ball, and it should no longer be bouncing into your Wunderlist.
