@@ -1,6 +1,16 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.16.0
+
+  - Fixed some bugs in recently released certificate pinning and user token encryption for Windows 7
+
+## 3.15.0
+
+  - Bring context menus currently only available for the Windows 7 app to the normal webapp
+  - Token encryption and certificate pinning for Windows 7
+  - Update translations
+
 ## 3.14.0
   - As a Windows 7 user you might have thought that, like Pi, we were being a little irrational with our never-ending updates and intrusive dialog screen. We will now only bug you about restarting Wunderlist when there is an important change.
   - If you have an infinite number of to-dos then you'll have noticed that the scrollbars were sometimes impossible to see depending on your chosen background. The color of the scrollbars now change to contrast with your background in Chrome and Safari.
