@@ -1,11 +1,15 @@
 # What's New in Wunderlist
 Changelog for the Android app.
 
+## 3.4.3
+
+  - Fixed: Various bugs and minor improvements (Widget sync issue and file upload).
+
 ## 3.4.2
 
   - Fixed: We've fixed the issue which made switching months in the Calendar View a little troublesome for Android 4.1.)
   - Fixed: Running Android 4.2 and finding that Wunderlist was crashing when you opened it? Sorry about that, we've fixed it now.
-  - Fixed: Not seeing your pretty background image on Android Wear? Fear not, we've fixed that bug.  
+  - Fixed: Not seeing your pretty background image on Android Wear? Fear not, we've fixed that bug.
 
 ## 3.4.1
 
