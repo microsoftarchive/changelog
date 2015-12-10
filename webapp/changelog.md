@@ -8,7 +8,7 @@ Changelog for the Web, Chrome, and Windows 7 applications.
 ## 3.15.0
 
   - Right click on a To-do or List. What's that you see? That's right, we've brought Context menus to the webapp. Now you can move, change due dates, copy your to-dos and much more, just at the (right) click of a button.
-  - On Windows 7 we implemented token encryption and certificate pinning.
+  - On Windows 7 we added user token encryption and https certificate pinning to keep your account and data super secure.
   - We updated a few translations.
 
 ## 3.14.0
