@@ -1,6 +1,16 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.16.0
+
+  - We fixed a few bugs in our recently released certificate pinning and user token encryption for Windows 7.
+
+## 3.15.0
+
+  - Right click on a To-do or List. What's that you see? That's right, we've brought Context menus to the webapp. Now you can move, change due dates, copy your to-dos and much more, just at the (right) click of a button.
+  - On Windows 7 we added user token encryption and https certificate pinning to keep your account and data super secure.
+  - We updated a few translations.
+
 ## 3.14.0
   - As a Windows 7 user you might have thought that, like Pi, we were being a little irrational with our never-ending updates and intrusive dialog screen. We will now only bug you about restarting Wunderlist when there is an important change.
   - If you have an infinite number of to-dos then you'll have noticed that the scrollbars were sometimes impossible to see depending on your chosen background. The color of the scrollbars now change to contrast with your background in Chrome and Safari.
