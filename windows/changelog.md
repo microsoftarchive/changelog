@@ -2,8 +2,8 @@
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.3.0.25 (Windows Phone 8.1)
-- App crashes after phone reset and restore from backup
-- Facebook login only working if you're not authenticated in FB in Edge on Windows10
+- We fixed an issue where your app would crash after a phone reset and restore from backup
+- We were having a couple of issues with Facebook login in Edge on Windows 10. We've fixed these now though, don't worry. 
 
 ## 3.6.11.0 (Windows 10)
 - We've fixed the keyboard not popping up when you're in Tablet Mode on Surface and want to add a to-do.
