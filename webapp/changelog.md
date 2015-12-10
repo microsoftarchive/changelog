@@ -3,13 +3,13 @@ Changelog for the Web, Chrome, and Windows 7 applications.
 
 ## 3.16.0
 
-  - Fixed some bugs in recently released certificate pinning and user token encryption for Windows 7
+  - We fixed a few bugs in our recently released certificate pinning and user token encryption for Windows 7.
 
 ## 3.15.0
 
-  - Bring context menus currently only available for the Windows 7 app to the normal webapp
-  - Token encryption and certificate pinning for Windows 7
-  - Update translations
+  - Right click on a To-do or List. What's that you see? That's right, we've brought Context menus to the webapp. Now you can move, change due dates, copy your to-dos and much more, just at the (right) click of a button.
+  - On Windows 7 we implemented token encryption and certificate pinning.
+  - We updated a few translations.
 
 ## 3.14.0
   - As a Windows 7 user you might have thought that, like Pi, we were being a little irrational with our never-ending updates and intrusive dialog screen. We will now only bug you about restarting Wunderlist when there is an important change.
