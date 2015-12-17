@@ -6,6 +6,7 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - We also darkened the comments text to increase contrast and readability.
 - Various sync improvements.
 
+
 ## 3.6.17 (Windows 10)
 - Feeling disenchanted with magically moving to-dos? No worries - we removed automatic sorting.
 - Likewise, we fixed an issue with Drag & Drop so you can organize your to-dos to your heart’s content.
@@ -17,7 +18,10 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.6.14.0 (Windows 10)
 
-## 3.3.0.26 (Windows Phone 8)
+## 3.3.0.26 (Windows Phone 8.1)
+- app crashes when you click on a comment in conversations view, which belongs to a task from a removed list
+- crash when creating a new list, then adding a new task in that list
+- crash on app start when live tiles were pinned with a previous version
 
 ## 3.3.0.25 (Windows Phone 8.1)
 - We fixed an issue where your app would crash after a phone reset and restore from backup
