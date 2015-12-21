@@ -6,7 +6,6 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - We also darkened the comments text to increase contrast and readability.
 - Various sync improvements.
 
-
 ## 3.6.17 (Windows 10)
 - Feeling disenchanted with magically moving to-dos? No worries - we removed automatic sorting.
 - Likewise, we fixed an issue with Drag & Drop so you can organize your to-dos to your heart’s content.
@@ -15,8 +14,24 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - Although it's easy, we’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
 - In case you’re detail-oriented, our copyright now displays the current year.
 
-
-## 3.6.14.0 (Windows 10)
+## 3.6.14 (Windows 10)
+- file attachments with invalid characters in filename cannot be opened
+- entered "add subtask" text won't be deleted when switching tasks before adding subtask
+- when a task is completed in the task list the next task should be focused instead of the hamburger
+- List names on tiles shouldn't be always truncated after 16 characters on live tiles
+- After logging in, the focus is on the sort button
+- MSA login fails with "the specified account does not exist"
+- Small live tile currently is just a small red square
+- Using CTRL+F to focus search while sidebar is small, should open the sidebar
+- User can still see list/tasks immediately after leaving a shared list
+- App crashes sometimes when a task is selected
+- Sometimes font in task input is white too, which means you cannot see what you're typing
+- CTRL + Click does not multiselect items
+- Completed sound didn't play on some devices
+- App crashes sometimes while adding a task
+- App crashes after system reset and restore from backup
+- if editing the note field in a task cursor sometimes repositions at the beginning of the text field
+- added sort by priority + sort by creation date
 
 ## 3.3.0.26 (Windows Phone 8.1)
 - app crashes when you click on a comment in conversations view, which belongs to a task from a removed list
