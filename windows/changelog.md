@@ -1,5 +1,8 @@
 # What's New in Wunderlist
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
+## 3.6.14.0 (Windows 10)
+
+## 3.3.0.26 (Windows Phone 8)
 
 ## 3.6.11.0 (Windows 10)
 - We've fixed the keyboard not popping up when you're in Tablet Mode on Surface and want to add a to-do.
