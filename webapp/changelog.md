@@ -1,6 +1,28 @@
 # What's New in Wunderlist
 Changelog for the Web, Chrome, and Windows 7 applications.
 
+## 3.17.1
+
+  - Only show email change settings if user has an email address
+  - Fix unhandled error in localization on app reload 
+  - Always use localStorage wrapper to capture exceptions 
+  - Capture exceptions when connecting to websocket
+  - Fix unhandled error from Firefox not giving access to dataTransfer.types
+  - Capture invalid state errors when requesting write transaction for IndexedDB 
+  - Poperly redirect to unsupported page for Safari 6
+  - Fix typo in context menu item attributes
+  - Fix safari having wrong add file UI 
+  - Fix deleting list from context menu freezing app if add task input was last in focus
+  - Fix animation when completing tasks from the from context menu 
+
+## 3.17.0
+
+  - Add support for double-byte numbers in smart dates
+  - Don't crash the Windows 7 app on encryption failures 
+  - Move webapp assets to CDN with custom domain (static.wunderlist.com)
+  - Fix realtime updates not applying in detail view title
+  - Update translations
+
 ## 3.16.0
 
   - We fixed a few bugs in our recently released certificate pinning and user token encryption for Windows 7.
