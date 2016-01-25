@@ -3,25 +3,19 @@ Changelog for the Web, Chrome, and Windows 7 applications.
 
 ## 3.17.1
 
-  - Only show email change settings if user has an email address
-  - Fix unhandled error in localization on app reload 
-  - Always use localStorage wrapper to capture exceptions 
-  - Capture exceptions when connecting to websocket
-  - Fix unhandled error from Firefox not giving access to dataTransfer.types
-  - Capture invalid state errors when requesting write transaction for IndexedDB 
-  - Poperly redirect to unsupported page for Safari 6
-  - Fix typo in context menu item attributes
-  - Fix safari having wrong add file UI 
-  - Fix deleting list from context menu freezing app if add task input was last in focus
-  - Fix animation when completing tasks from the from context menu 
+  - Some exciting news for users that don’t log-in via email. The “change your email” button has been taken away!
+  - To all of the non-English speaking countries, we apologize—there was an error that appeared randomly when you reloaded the app, but now it’s gone, we hope there’s no hard feelings. 
+  - If you right-clicked on the Wunderlist web page, a menu popped up with a lot of cool options... and a spelling mistake. Now there are just a lot of cool options.
+  - When you wanted to add a file, Safari looked a bit funky. Now Safari looks like it's supposed to look.
+  - If you tried to delete a list, the app would crash because it really liked that List. That’s fixed now so the app will have to suck it up and deal with the loss. 
+  - We take pride in our design so when the animation was slightly off while right-clicking to complete a task, we gave it a makeover.
+  - What does the Firefox say? It says it will allow the dragging and dropping of items because it didn’t work before due to an issue.
 
 ## 3.17.0
 
-  - Add support for double-byte numbers in smart dates
-  - Don't crash the Windows 7 app on encryption failures 
-  - Move webapp assets to CDN with custom domain (static.wunderlist.com)
-  - Fix realtime updates not applying in detail view title
-  - Update translations
+  - Get psyched! We updated a few translations. 
+  - Japanese numerals have joined the Smart Due Dates club! Basically, when you type a large Japanese numeral to create a date/reminder, it will work.  
+  - Have you tested our sync recently? It’s pretty good, right?! The only place it let us down was when you changed your List name in the Detail View, it’s now back to syncing at lightning speed.
 
 ## 3.16.0
 
