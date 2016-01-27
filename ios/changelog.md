@@ -1,6 +1,13 @@
 # What's New in Wunderlist
 Changelog for the iOS app.
 
+## 3.4.1
+
+  - Fixed: Links in comments are clickable again
+  - Fixed: Due dates would show up wrongly when using Japanese calendar
+  - Fixed: Icons on iPad Pro aren't blurry
+  - Fixed: Pull to Sync animation in Week and Completed smart list is broken
+
 ## 3.4.0
 
   - New: No your eyes aren’t deceiving you, we really are looking prettier today–thanks for noticing. Our brand new look has come to your iPhone and iPad. Your lists are even easier to see at a glance and we’ve streamlined the Detail View, to help make adding Reminders, Subtasks and Notes even faster.
