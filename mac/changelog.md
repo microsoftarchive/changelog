@@ -1,6 +1,13 @@
 # What's New in Wunderlist
 Changelog for the Mac app.
 
+## 3.4.1
+- Fixed: We like to save you time, which is why we’ve fixed the bug that meant that you had to click on a to-do before you could click on its link. 
+- Fixed: If your app was crashing when you searched for unsynced to-dos, we’re sorry about that one. We’ve now sent that pesky bug to a galaxy far, far away. 
+- Fixed: If you came across some strange options when right-clicking in a Smart List, then you’ll be glad to hear we’ve fixed that issue.
+- Fixed: We went a bit avant-garde with some of our UI. Apparently the world is not quite ready for uncentered images so we tweaked a few minor UI issues in this update.
+- Fixed: Were your due dates looking a bit weird when using the calendar in Japanese or Thai? Gomen'nasai (sorry)! We’ve fixed that strange bug.
+
 ## 3.4.0
 - New: Add a to-do from either your list or from Quick Add (CTRL+ALT+W) and you will now get tag and assignee suggestions. Just type # to quickly choose from your most used tags, and @ to see and choose from all the people in your shared list. Assigned a to-do to someone by accident? Just hit the x at the top right of the Assigned to icon.
 - New: Are Smart Due Dates occasionally being a little too clever for your liking? If you don’t want a due date to be created then simply hit ESC while typing to cancel the Smart Due Date.
