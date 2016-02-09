@@ -1,5 +1,15 @@
 # What's New in Wunderlist
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
+
+## 3.6.17 (Windows 10)
+- fix crash while retrieving access token when logged out
+- fixed crash on device type detection
+- fixed Drag & Drop 
+- fixed logout on device when logging in on another
+- removed automatic sorting
+- updated copyrights to 2016
+- star/unstar shortcut fixed
+
 ## 3.6.14.0 (Windows 10)
 
 ## 3.3.0.26 (Windows Phone 8)
