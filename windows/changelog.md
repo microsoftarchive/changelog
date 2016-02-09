@@ -4,6 +4,10 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.3.0.26 (Windows Phone 8)
 
+## 3.3.0.25 (Windows Phone 8.1)
+- We fixed an issue where your app would crash after a phone reset and restore from backup
+- We were having a couple of issues with Facebook login in Edge on Windows 10. We've fixed these now though, don't worry. 
+
 ## 3.6.11.0 (Windows 10)
 - We've fixed the keyboard not popping up when you're in Tablet Mode on Surface and want to add a to-do.
 - We've changed the "Pending" label next to an invite in a shared list to orange instead of blue. It's the little things. 
@@ -26,7 +30,7 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - We fixed a little bug that didn't like uploading files with long names. 
 - Various other bug fixes.
 
-## 3.3.0.20 (Windows 8 + Windows mobile)
+## 3.3.0.20 (Windows 8 + Windows Phone 8.1)
 
 - We want to help you tick off your to-dos so we're sorry if you had issues logging in using your Facebook or Google account. We've fixed it now so you can get back to work.
 - Talking of logging in, you can now sign-up or login with your Microsoft work or school account. 
