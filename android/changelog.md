@@ -1,6 +1,10 @@
 # What's New in Wunderlist
 Changelog for the Android app.
 
+## 3.4.4
+
+  - Fixed: Various bugs and minor improvements
+
 ## 3.4.3
 
   - Fixed: Various bugs and minor improvements (Widget sync issue and file upload).
