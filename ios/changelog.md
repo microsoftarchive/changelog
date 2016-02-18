@@ -3,7 +3,11 @@ Changelog for the iOS app.
 
 ## 3.4.2
 
-  - Fixed: Various bugs and minor improvements
+  - Fixed a bug when due date and reminder picker weren't dismissed while swiping off the quick add window 
+  - Fixed a bug when users would set a due date during the daylight time saving period and the due date would be one day prior to the selection
+  - Improved the performance for date based smart lists by not creating redundant calendar instances
+  - Fixed a bug when dates were wrong for Japanese calendar
+  - Fixed a bug when it wasn't possible to select the last list when adding a task with the quick add
 
 ## 3.4.1
 
