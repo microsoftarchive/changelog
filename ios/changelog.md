@@ -1,6 +1,10 @@
 # What's New in Wunderlist
 Changelog for the iOS app.
 
+## 3.4.2
+
+  - Fixed: Various bugs and minor improvements
+
 ## 3.4.1
 
   - Fixed: Links in comments are clickable again
