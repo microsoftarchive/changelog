@@ -3,11 +3,12 @@ Changelog for the iOS app.
 
 ## 3.4.2
 
-  - Fixed a bug when due date and reminder picker weren't dismissed while swiping off the quick add window 
-  - Fixed a bug when users would set a due date during the daylight time saving period and the due date would be one day prior to the selection
-  - Improved the performance for date based smart lists by not creating redundant calendar instances
-  - Fixed a bug when dates were wrong for Japanese calendar
-  - Fixed a bug when it wasn't possible to select the last list when adding a task with the quick add
+In this update, we’ve done a little early Spring Cleaning to bring you performance improvements and sweep away a few bugs.
+
+  - We’ve added a little extra spice to your Today & Week Smart lists so that they’ll load even faster when you give them a tap.
+  - Recently change your clocks because of daylight savings & spot a Due Date bug? Consider it squished.
+  - We’ve had a stern talking to Quick Add & told it who’s boss (that’s you), so there won’t be any more calendar & list selection issues.
+  - Those recent gravitational waves caused some incorrect due dates in Japan but don’t worry, we’ve tweaked the laws of physics to correct it.
 
 ## 3.4.1
 
