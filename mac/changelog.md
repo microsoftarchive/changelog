@@ -1,6 +1,10 @@
 # What's New in Wunderlist
 Changelog for the Mac app.
 
+## 3.4.2
+- Users with many lists, we have squished the laggy bug that reappeared with the last update. It's now back to lightning fast speed.
+- Fixed a bug when users would set a due date during the daylight time saving period and the due date would be one day prior to the selection
+
 ## 3.4.1
 - Fixed: We like to save you time, which is why we’ve fixed the bug that meant that you had to click on a to-do before you could click on its link. 
 - Fixed: If your app was crashing when you searched for unsynced to-dos, we’re sorry about that one. We’ve now sent that pesky bug to a galaxy far, far away. 
