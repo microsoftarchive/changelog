@@ -1,6 +1,11 @@
 # What's New in Wunderlist
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
+## 3.6.19 (Windows 10)
+- avoid multiple lines in latest comment view
+- darker text in comments textbox
+- sync fixes
+
 ## 3.6.17 (Windows 10)
 - fix crash while retrieving access token when logged out
 - fixed crash on device type detection
