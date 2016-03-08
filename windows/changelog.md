@@ -15,28 +15,20 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - In case you’re detail-oriented, our copyright now displays the current year.
 
 ## 3.6.14 (Windows 10)
-- file attachments with invalid characters in filename cannot be opened
-- entered "add subtask" text won't be deleted when switching tasks before adding subtask
-- when a task is completed in the task list the next task should be focused instead of the hamburger
-- List names on tiles shouldn't be always truncated after 16 characters on live tiles
-- After logging in, the focus is on the sort button
-- MSA login fails with "the specified account does not exist"
-- Small live tile currently is just a small red square
-- Using CTRL+F to focus search while sidebar is small, should open the sidebar
-- User can still see list/tasks immediately after leaving a shared list
-- App crashes sometimes when a task is selected
-- Sometimes font in task input is white too, which means you cannot see what you're typing
-- CTRL + Click does not multiselect items
-- Completed sound didn't play on some devices
-- App crashes sometimes while adding a task
-- App crashes after system reset and restore from backup
-- if editing the note field in a task cursor sometimes repositions at the beginning of the text field
-- added sort by priority + sort by creation date
+- You can now keep things extra-organized with sorting by priority or by creation date.
+- Love the satisfying “ding” once you’ve completed a task? It’s back! 
+- We fixed a bug preventing certain file attachments from opening.
+- Our error message “the specified account does not exist” will no longer cause existential dread as we have fixed MSA log in.
+- Likewise, you will no longer be haunted by shared lists you’ve already left. Those ghostly specters are now immediately deleted.
+- We’ve improved our live tiles which no longer cut off list names after 16 characters. 
+- We fixed both CTRL+F and CTRL+Click so you can easily search for and select multiple items. 
+- We squashed bugs responsible for crashes when selecting or adding tasks. 
+- No need to fret if you had trouble regrouping after completing a to-do. Now focus is shifted automatically to the next task.
+- Had trouble editing a note? Well, we’re gonna let you finish! We fixed the bug that repositioned the cursor while typing. - Various other fixes and improvements.
 
 ## 3.3.0.26 (Windows Phone 8.1)
-- app crashes when you click on a comment in conversations view, which belongs to a task from a removed list
-- crash when creating a new list, then adding a new task in that list
-- crash on app start when live tiles were pinned with a previous version
+-We fixed crashes related to old conversations and live tiles pinned to a previous version of the app.
+-We also tracked down the bug responsible for crashing the app after adding a new task in a new list.
 
 ## 3.3.0.25 (Windows Phone 8.1)
 - We fixed an issue where your app would crash after a phone reset and restore from backup
