@@ -11,7 +11,7 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - Likewise, we fixed an issue with Drag & Drop so you can organize your to-dos to your heart’s content.
 - Speaking of organizing, prioritize away! The the star shortcut has been fixed.
 - We tracked down and fixed a couple of crashes so logging in on all of your devices should be as easy as pie.
-- Although it's easy, you’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
+- Although it's easy, we’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
 - In case you’re detail-oriented, our copyright now displays the current year.
 
 
