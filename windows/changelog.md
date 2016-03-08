@@ -2,9 +2,9 @@
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.6.19 (Windows 10)
-- avoid multiple lines in latest comment view
-- darker text in comments textbox
-- sync fixes
+- We've made it easier to view all your comments! Long comments are now abbreviated in detail view so you can see your entire conversation at a glance instead of getting lost in a monologue.
+- We also darkened the comments text to increase contrast and readability.
+- Various sync improvements.
 
 ## 3.6.17 (Windows 10)
 - fix crash while retrieving access token when logged out
