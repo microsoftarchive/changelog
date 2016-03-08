@@ -1,5 +1,20 @@
 # What's New in Wunderlist
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
+
+## 3.6.19 (Windows 10)
+- We've made it easier to view all your comments! Long comments are now abbreviated in detail view so you can see your entire conversation at a glance instead of getting lost in a monologue.
+- We also darkened the comments text to increase contrast and readability.
+- Various sync improvements.
+
+## 3.6.17 (Windows 10)
+- Feeling disenchanted with magically moving to-dos? No worries - we removed automatic sorting.
+- Likewise, we fixed an issue with Drag & Drop so you can organize your to-dos to your heart’s content.
+- Speaking of organizing, prioritize away! The the star shortcut has been fixed.
+- We tracked down and fixed a couple of crashes so logging in on all of your devices should be as easy as pie.
+- Although it's easy, we’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
+- In case you’re detail-oriented, our copyright now displays the current year.
+
+
 ## 3.6.14.0 (Windows 10)
 
 ## 3.3.0.26 (Windows Phone 8)
