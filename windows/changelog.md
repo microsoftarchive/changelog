@@ -7,13 +7,13 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - Various sync improvements.
 
 ## 3.6.17 (Windows 10)
-- fix crash while retrieving access token when logged out
-- fixed crash on device type detection
-- fixed Drag & Drop 
-- fixed logout on device when logging in on another
-- removed automatic sorting
-- updated copyrights to 2016
-- star/unstar shortcut fixed
+- Feeling disenchanted with magically moving to-dos? No worries - we removed automatic sorting.
+- Likewise, we fixed an issue with Drag & Drop so you can organize your to-dos to your heart’s content.
+- Speaking of organizing, prioritize away! The the star shortcut has been fixed.
+- We tracked down and fixed a couple of crashes so logging in on all of your devices should be as easy as pie.
+- Although it easy, you’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
+- In case you’re detail-oriented, our copyright now displays the current year.
+
 
 ## 3.6.14.0 (Windows 10)
 
