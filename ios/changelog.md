@@ -12,10 +12,10 @@ In this update, we’ve done a little early Spring Cleaning to bring you perform
 
 ## 3.4.1
 
-  - Fixed: Links in comments are clickable again
-  - Fixed: Due dates would show up wrongly when using Japanese calendar
-  - Fixed: Icons on iPad Pro aren't blurry
-  - Fixed: Pull to Sync animation in Week and Completed smart list is broken
+  - Fixed: Having trouble following the link to the killer brunch spot your bestie suggested? Don’t let us keep you from bottomless brews and endless pancake stacks. Links in comments are now clickable again.
+  - Fixed: We’ve given our icons a makeover in honor of the iPad Pro. They should no longer appear blurry on the Pro’s retina display.
+  - Fixed: If you’re using a Japanese calendar, your due dates should display correctly again. 
+  - Fixed: Our Pull to Sync animation in Week and Completed Smart Lists is back!
 
 ## 3.4.0
 
