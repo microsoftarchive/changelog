@@ -14,10 +14,21 @@ Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 - Although it's easy, we’ll stop prompting you to log in so often. We fixed the bug that automatically logged you out.
 - In case you’re detail-oriented, our copyright now displays the current year.
 
+## 3.6.14 (Windows 10)
+- You can now keep things extra-organized with sorting by priority or by creation date.
+- Love the satisfying “ding” once you’ve completed a task? It’s back! 
+- We fixed a bug preventing certain file attachments from opening.
+- Our error message “the specified account does not exist” will no longer cause existential dread as we have fixed MSA log in.
+- Likewise, you will no longer be haunted by shared lists you’ve already left. Those ghostly specters are now immediately deleted.
+- We’ve improved our live tiles which no longer cut off list names after 16 characters. 
+- We fixed both CTRL+F and CTRL+Click so you can easily search for and select multiple items. 
+- We squashed bugs responsible for crashes when selecting or adding tasks. 
+- No need to fret if you had trouble regrouping after completing a to-do. Now focus is shifted automatically to the next task.
+- Had trouble editing a note? Well, we’re gonna let you finish! We fixed the bug that repositioned the cursor while typing. - Various other fixes and improvements.
 
-## 3.6.14.0 (Windows 10)
-
-## 3.3.0.26 (Windows Phone 8)
+## 3.3.0.26 (Windows Phone 8.1)
+-We fixed crashes related to old conversations and live tiles pinned to a previous version of the app.
+-We also tracked down the bug responsible for crashing the app after adding a new task in a new list.
 
 ## 3.3.0.25 (Windows Phone 8.1)
 - We fixed an issue where your app would crash after a phone reset and restore from backup
