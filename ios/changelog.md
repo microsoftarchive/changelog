@@ -1,6 +1,22 @@
 # What's New in Wunderlist
 Changelog for the iOS app.
 
+## 3.4.2
+
+In this update, we’ve done a little early Spring Cleaning to bring you performance improvements and sweep away a few bugs.
+
+  - We’ve added a little extra spice to your Today & Week Smart lists so that they’ll load even faster when you give them a tap.
+  - Recently change your clocks because of daylight savings & spot a Due Date bug? Consider it squished.
+  - We’ve had a stern talking to Quick Add & told it who’s boss (that’s you), so there won’t be any more calendar & list selection issues.
+  - Those recent gravitational waves caused some incorrect due dates in Japan but don’t worry, we’ve tweaked the laws of physics to correct it.
+
+## 3.4.1
+
+  - Fixed: Having trouble following the link to the killer brunch spot your bestie suggested? Don’t let us keep you from bottomless brews and endless pancake stacks. Links in comments are now clickable again.
+  - Fixed: We’ve given our icons a makeover in honor of the iPad Pro. They should no longer appear blurry on the Pro’s retina display.
+  - Fixed: If you’re using a Japanese calendar, your due dates should display correctly again. 
+  - Fixed: Our Pull to Sync animation in Week and Completed Smart Lists is back!
+
 ## 3.4.0
 
   - New: No your eyes aren’t deceiving you, we really are looking prettier today–thanks for noticing. Our brand new look has come to your iPhone and iPad. Your lists are even easier to see at a glance and we’ve streamlined the Detail View, to help make adding Reminders, Subtasks and Notes even faster.
