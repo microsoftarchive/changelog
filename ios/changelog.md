@@ -1,6 +1,10 @@
 # What's New in Wunderlist
 Changelog for the iOS app.
 
+## 3.4.3
+
+- Whether you're getting up an hour earlier yawn or enjoying a sleep-in Zzzz, daylight savings has started up again and may be causing your Week View to be askew - Sorry! This update should have everything ticking over like clockwork again.
+
 ## 3.4.2
 
 In this update, we’ve done a little early Spring Cleaning to bring you performance improvements and sweep away a few bugs.
