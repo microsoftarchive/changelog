@@ -1,6 +1,9 @@
 # What's New in Wunderlist
 Changelog for the Mac app.
 
+## 3.4.3
+- Whether you're getting up an hour earlier *yawn* or enjoying a sleep-in *Zzzz*, daylight savings has started up again and may be causing your Week View to be askew - Sorry! This update should have everything ticking over like clockwork again.
+
 ## 3.4.2
 - Users with many lists, we have squished the laggy bug that reappeared with the last update. It's now back to lightning fast speed.
 - Fixed a bug when users would set a due date during the daylight time saving period and the due date would be one day prior to the selection
