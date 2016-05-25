@@ -1,6 +1,11 @@
 # What's New in Wunderlist
 Changelog for the iOS app.
 
+## 3.4.4
+
+- Fixed: Our app seems to have had a few separation anxiety issues recently. When you tried to delete a lot of to-dos it threw a little tantrum and refused to sync. We’ve talked through its feelings and it’s come to terms with saying goodbye to a few of its to-dos without causing any sync issues.
+- Fixed: We don’t wish to fast forward a season but when a daylight saving time change comes around again you’ll be grateful that we’ve fixed the issue which caused Today and Week Smart Lists to show the incorrect day.
+
 ## 3.4.3
 
 - Whether you're getting up an hour earlier yawn or enjoying a sleep-in Zzzz, daylight savings has started up again and may be causing your Week View to be askew - Sorry! This update should have everything ticking over like clockwork again.
