@@ -2,7 +2,7 @@
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
 ## 3.6.20 (Windows 10)
-- fixed sync issue: changes got lost sometimes when different fields on the same task were changed in close succession
+- Fixed: Working at lightning fast speed? Good on you. Our app had a little trouble keeping up with your speedy manoeuvres and changes were sometimes getting lost. Its leveled-up and you'll no longer have any sync issues when editing different sections of the same to-do.
 
 ## 3.6.19 (Windows 10)
 - We've made it easier to view all your comments! Long comments are now abbreviated in detail view so you can see your entire conversation at a glance instead of getting lost in a monologue.
