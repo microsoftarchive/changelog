@@ -1,6 +1,9 @@
 # What's New in Wunderlist
 Changelog for Windows 10, Windows 8 and Windows Phone 8.1
 
+## 3.6.22 (Windows 10)
+- We've been scrubbing and polishing to make our app shiny and bright for 2017. What does that mean? We've cleaned out the bugs, dusted in the corners and made a few minor improvements. 
+
 ## 3.6.20 (Windows 10)
 - Fixed: Working at lightning fast speed? Good on you. Our app had a little trouble keeping up with your speedy manoeuvres and changes were sometimes getting lost. Its leveled-up and you'll no longer have any sync issues when editing different sections of the same to-do.
 
